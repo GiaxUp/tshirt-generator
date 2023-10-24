@@ -1,5 +1,5 @@
-# 3D T-Shirt Generator empowered with AI
-![Website](https://i.ibb.co/0K3Ljgk/tshirt.png)
+# 3D T-Shirt Generator (empowered with AI)
+![image](https://github.com/GiaxUp/tshirt-generator/assets/40038797/6a6a40f8-0fa7-4a73-9e19-e23028184c85)
 
 ## Introduction
 Many large corporations already use 3D graphics to showcase their products. Decided to create this ThreeJS 3D product website and infused it with the power of artificial intelligence! 
