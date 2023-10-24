@@ -1,4 +1,4 @@
-# AI-Powered 3D Website
+# 3D T-Shirt Generator empowered with AI
 ![Website](https://i.ibb.co/0K3Ljgk/tshirt.png)
 
 ## Introduction
